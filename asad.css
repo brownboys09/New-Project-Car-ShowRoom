@@ -1,0 +1,74 @@
+.p{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    text-align:left;
+    font-size: 50px;
+    color:rgb(255, 110, 6);
+    
+}
+.front{
+    position: relative;
+    justify-content: right;
+    font-size:40px;
+    display: flex;
+    bottom: 70px;
+    gap: 45px;
+    margin: 0px 850px;
+    text-decoration:none;
+
+
+}
+.a :hover{
+    color: aqua;
+}
+body{
+    background-image: url(a\ \(4\).jpg);
+}
+.hammer{
+    font-size: 35px;
+    text-align: center;
+}
+.hhamer{
+    font-size: 25px;
+    text-align: center;
+}
+.a, .b, .c, .d, .e{
+    color:rgb(255, 110, 6);
+    cursor: pointer;
+    text-decoration: none;
+
+}
+.a:hover,.b:hover,.c:hover,.d:hover,.e:hover{
+    color: black;
+}
+.placeholder:hover{
+    transition: 0.5s;
+    color: blue;
+}
+
+.info1 input{
+    background-color: aqua;
+    text-align: center;
+    display: block;
+    width: 500px;
+    padding: 10px;
+    border: 2px black;
+    margin: 3px auto;
+    font-size: 30px;
+}
+.info1 input:hover{
+    background-color:black;
+}
+.info2 select{
+    background-color:brown;
+}
+.info2 select:hover{
+    background-color:aquamarine;
+}
+.g{
+    font-size: xxx-large;
+    padding: 25px;
+    
+}
